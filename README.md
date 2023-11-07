@@ -1,2 +1,1 @@
-# Vichitra
 # Maths Lab Code
